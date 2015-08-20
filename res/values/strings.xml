@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login__page">Login_Page</string>
+    <string name="title_activity_home__page">Home_Page</string>
+    <string name="title_activity_news__page">News_Page</string>
+</resources>
