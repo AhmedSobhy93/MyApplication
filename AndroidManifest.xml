@@ -24,6 +24,14 @@
             android:name=".News_Page"
             android:label="@string/title_activity_news__page" >
         </activity>
+        <activity
+            android:name=".Prob_Page"
+            android:label="@string/title_activity_prob__page" >
+        </activity>
+        <activity
+            android:name=".Show_News_Page"
+            android:label="@string/title_activity_show__news__page" >
+        </activity>
     </application>
 
 </manifest>

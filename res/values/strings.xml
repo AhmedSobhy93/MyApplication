@@ -6,4 +6,6 @@
     <string name="title_activity_login__page">Login_Page</string>
     <string name="title_activity_home__page">Home_Page</string>
     <string name="title_activity_news__page">News_Page</string>
+    <string name="title_activity_prob__page">Prob_Page</string>
+    <string name="title_activity_show__news__page">Show_News_Page</string>
 </resources>
